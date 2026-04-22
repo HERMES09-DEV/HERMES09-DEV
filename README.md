@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## Currently Working On
-A little bit of everything. 
+Currently working on a little bit of everything. 
 
 **Frontend**
 <br>
