@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Currently Working On
+A little bit of everything. 
+
 **Frontend**
 <br>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
