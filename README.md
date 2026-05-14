@@ -2,7 +2,7 @@
 
 I’m currently working across frontend, backend, database design, authentication, and full system integration.
 
-Lately I’ve been building **Coffee Platform**, a multi-tenant coffee shop POS and menu system with public shop menus, role-based admin dashboards, inventory, orders, KDS, staff management, tenant settings, seeded demo data, and polished responsive UI/animations.
+Lately I’ve been building **Coffee Platform**, a multi-tenant coffee shop POS and menu system with public shop menus, role-based admin dashboards, inventory, orders, current trends, staff management, tenant settings, and polished responsive UI/animations.
 
 ### Current Focus
 
