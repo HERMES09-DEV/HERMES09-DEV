@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently working on a little bit of everything. 
+Currently working on a little bit of everything from frontend to backend to fully integrating the system. 
 
 **Frontend**
 <br>
