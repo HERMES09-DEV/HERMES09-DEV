@@ -2,22 +2,11 @@
 
 I’m currently working across frontend, backend, database design, authentication, and full system integration.
 
-Lately I’ve been building **Formly**, a polished multi-tenant SaaS form builder. It supports drag-and-drop field management, conditional logic, public form links and embeds, file uploads, response tracking, CSV exports, analytics, organization member invites, and responsive light and dark themes.
-
-Formly uses secure tenant-scoped data access, Google and GitHub authentication, debounced auto-saving, rate-limited public submissions, and smooth CSS transitions throughout the dashboard and form experience.
-
-## Current Focus
-
-- Building full-stack applications with **Next.js, React, TypeScript, Prisma, and PostgreSQL**
-- Designing responsive interfaces with thoughtful UX, polished dashboards, and smooth CSS animations
-- Strengthening validation, authentication flows, tenant isolation, and production error handling
-- Creating reliable integrations for file storage, email, analytics, exports, and rate limiting
-
 ## Featured Project: Formly
 
-**Formly** is a clean multi-tenant form builder for teams that need to create, share, embed, and analyze forms from one workspace.
+**Formly** is a clean multi-organization form builder for teams that need to create, share, embed, and analyze forms from one workspace.
 
-## Technologies
+## Tech Stack
 
 **Frontend**
 <br>
