@@ -2,7 +2,7 @@
 
 I’m currently working across frontend, backend, database design, authentication, and full system integration.
 
-## Featured Project: Currently On Break
+## Currently On Break 
 
 **Will start and resume more of my projects soon!**
 
