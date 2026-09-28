@@ -2,9 +2,9 @@
 
 I’m currently working across frontend, backend, database design, authentication, and full system integration.
 
-## Featured Project: Formly
+## Featured Project: Currently On Break
 
-**Formly** is a clean multi-organization form builder for teams that need to create, share, embed, and analyze forms from one workspace.
+**Will start and resume more of my projects soon!**
 
 ## Tech Stack
 
